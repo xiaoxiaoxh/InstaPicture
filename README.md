@@ -16,7 +16,7 @@
 
 ## 简介
 
-SJTU-EE458 Course Project, Spring 2020.
+SJTU-EE458 Course Project
 
 一款用react和python开发的图片社交软件，支持内容推荐、好友圈、用户相册等功能。
 
